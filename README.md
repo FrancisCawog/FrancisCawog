@@ -1,15 +1,15 @@
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5001&pause=1000&color=FF5E44F6&background=8990FF24&center=true&vCenter=true&random=false&width=650&lines=Hello+there!+I'm+Francis%2C+a+Full-    Stack+Developer+)](https://git.io/typing-svg)
-
+<p align="center">
+  Francis Cawog
+</p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/francis-cawog-958178187/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
-   </a>
-  <a href="mailto:franciscawog@gmail.com">
-    <img src="https://img.shields.io/badge/-Email_Me-FFFFFF?style=flat-square&logo=gmail&logoColor=color" alt="Email me">
-  </a>
+  <a href="https://github.com/FrancisCawog/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Ruby%20on%20Rails%20Enthusiast;React%20with%20Redux%20Aficionado;Always%20trying%20to%20learn&font=Fira%20Code&center=true&width=440&height=45&color=FF663FF0&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+
+
+
 
 <!--
 **FrancisCawog/FrancisCawog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
