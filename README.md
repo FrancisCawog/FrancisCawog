@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5001&pause=1000&color=FF5E44F6&background=8990FF43&center=true&vCenter=true&random=false&width=435&lines=Hello+there!+I'm+Francis%2C+a+Full-Stack+Developer+)](https://git.io/typing-svg)
 
 <!--
 **FrancisCawog/FrancisCawog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
