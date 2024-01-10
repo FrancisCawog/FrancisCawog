@@ -1,6 +1,6 @@
-<h1 align= "center">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5001&pause=1000&color=FF5E44F6&background=8990FF24&center=true&vCenter=true&random=false&width=650&lines=Hello+there!+I'm+Francis%2C+a+Full-    Stack+Developer+)](https://git.io/typing-svg)
-</h1>
+
 
 <p align="center">
    <a href="https://www.linkedin.com/in/francis-cawog-958178187/" target="_blank">
