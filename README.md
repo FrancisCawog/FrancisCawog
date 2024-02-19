@@ -11,7 +11,7 @@
 <p align="center">
 <a href="mailto:franciscawog@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-FFFFFF?style=flat-square&logo=gmail&logoColor=color"></a>
 <a href="https://www.linkedin.com/in/francis-cawog-958178187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=color/"/></a>
-<a https://img.shields.io/badge/Portfolio-site?logoColor=blue&link=franciscawog.com></a>
+<a href="https://franciscawog.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-site?logoColor=blue"/></a>
 </p>
 
 ### About Me
