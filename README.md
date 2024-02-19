@@ -13,8 +13,6 @@
 <a href="https://www.linkedin.com/in/francis-cawog-958178187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=color/"/></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscawog)](https://github.com/anuraghazra/github-readme-stats)
-
 ### About Me
 <p>
 💻 Software Engineer from New York with a passion about technology. <br/><br/>
